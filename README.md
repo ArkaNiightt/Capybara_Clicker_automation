@@ -1,5 +1,5 @@
 # Capybara_Clicker_automation
-<img src="https://img001.prntscr.com/file/img001/KzquvcfJRFe6IBoqKFt_5Q.png" alt="Code" width="70%">
+  <img src="https://img001.prntscr.com/file/img001/KzquvcfJRFe6IBoqKFt_5Q.png" alt="Code" width="50%">
 
 # 🧾 Descrição 
 + Automação do jogo Capybara Click
