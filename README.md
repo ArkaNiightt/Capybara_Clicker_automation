@@ -1,8 +1,8 @@
 # Capybara_Clicker_automation
 
-#🧾 Descrição 
+# 🧾 Descrição 
 + Automação do jogo Capybara Click
-#📖 Bibliotecas usadas
+# 📖 Bibliotecas usadas
 + pyautogui
   ```
   python install pyautogui
@@ -15,18 +15,18 @@
   ```
   python install mouseinfo
   ```
-#⚙️ Configurações
+# ⚙️ Configurações
 
-###🖥 Recomendação de tela
+### 🖥 Recomendação de tela
 + Tela geral enquanto o jogo esta sendo executado no script:
-  <div align="left">
+  <div align="center">
     <img src="https://img001.prntscr.com/file/img001/qBTZ93pxSzWMwvRBmZUlLA.png" alt="Code" width="70%">
   </div>
 + Pegar coordenadas play do jogo:
-  <div align="left">
-    <img src="https://img001.prntscr.com/file/img001/xczNg6P8QlKi8OmvateB6Q.png" alt="Code" width="20%">
+  <div align="center">
+    <img src="https://img001.prntscr.com/file/img001/xczNg6P8QlKi8OmvateB6Q.png" alt="Code" width="40%">
   </div>
 + Coordenadas da capivara:
-  <div align="left">
+  <div align="center">
     <img src="https://img001.prntscr.com/file/img001/2dARkXB8RmWHnSH67LdcqQ.png" alt="Code" width="50%">
   </div>
