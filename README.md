@@ -20,7 +20,10 @@
   ```
 # ⚙️ Configurações
  + Use mouseinfo para pegar as coordenadas necessárias da sua tela
- + Edite as coordenadas no módulo funcs_programa na função inicio()
+ + Edite as coordenadas no módulo:
+    ```
+    funcs_programa na função inicio
+    ```
  + Inicie o programa em:
     ```
     python app.py
