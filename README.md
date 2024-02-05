@@ -38,3 +38,5 @@
   <div align="center">
     <img src="https://img001.prntscr.com/file/img001/2dARkXB8RmWHnSH67LdcqQ.png" alt="Code" width="50%">
   </div>
+# 🔧 Version
+  + 1.0
