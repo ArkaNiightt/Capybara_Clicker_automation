@@ -19,6 +19,11 @@
   python install mouseinfo
   ```
 # ⚙️ Configurações
+ + Use mouseinfo para pegar as coordenadas necessárias da sua tela
+ + Inicie o programa em:
+  ```
+  python app.py
+  ```
 
 ### 🖥 Recomendação de tela
 + Tela geral enquanto o jogo esta sendo executado no script:
