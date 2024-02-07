@@ -144,7 +144,6 @@ def inicio():
     clicar_play(1400, 663)
     # Esperar o jogo carregar
     carregamento("Carregando", time_jogo_iniciar, inicializador=True)
-    # Econtrar a posiçao capivara e clicar ate 500 clicks
     print("Tudo certo, jogo começando..")
     sleep(1)
     while True:
