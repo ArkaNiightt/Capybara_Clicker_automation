@@ -4,7 +4,8 @@
   </div>
 
 # 🧾 Descrição 
-+ Automação do jogo Capybara Click
++ Este repositório contém um script em Python para automatizar cliques no jogo Capybara Clicker usando PyAutoGUI. Útil para aprender sobre automação de jogos simples e técnicas de manipulação de interfaces gráficas em Python.
+
 # 📖 Bibliotecas usadas
 + pyautogui
   ```
